@@ -1,7 +1,6 @@
 #openIP is an IP/port scanner for Synovus Information Security
-#Copyright 2013 Synovus
 #Created by: Christopher Gaines / Info Security Analyst I
-#Modified on: Aug-27-2013
+#Modified on: March-27-2014
 
 #This program is a regular expression formatter for openIP
 #Used to create an easy to read format of the ndiff results from openIP.sh
